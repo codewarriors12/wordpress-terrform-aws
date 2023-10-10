@@ -1,0 +1,11 @@
+# .gitignore
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform
+*.hcl
+*.pem
+conf*
+*.sql
+id_rsa*
+
